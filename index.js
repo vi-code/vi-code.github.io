@@ -98,7 +98,7 @@ function replaceUrls(text) {
 }
 
 Typer.speed=3;
-Typer.file="Vihar Patel.txt"; 
+Typer.file="ViharPatel.txt"; 
 Typer.init();
  
 var timer = setInterval("t();", 30);
