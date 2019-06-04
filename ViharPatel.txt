@@ -5,7 +5,6 @@
 
 <!-- slightdelayhere-->Feel free to send me an <a href="vihar_pat95@gmail.com">email!<!-- longlonglongcomment --></a>
 
-<!-- slightdelayhere-->You can view the code <a href="https://github.com/vikoopat/vikoopat.github.io">here!<!-- longlonglongcomment --></a>
-
+<p>You can view the code <a href="https://github.com/vikoopat/vikoopat.github.io">here!</p>
 
 <p>Peace!</p>
