@@ -3,7 +3,7 @@
 "<span id="k">Porfolio coming soon! (July, 2019)</span>"
 
 
-<!-- slightdelayhere-->Feel free to send me an <a href="mailto:vihar_pat95@gmail.com">email!<!-- longlonglongcomment --></a>
+<!-- slightdelayhere-->Feel free to send me an <a href="mailto:vihar_pat95@gmail.com">email!<!-- smalldelay --></a>
 
 <p>You can view the code <a href="https://github.com/vi-code/vi-code.github.io">here!</a></p>
 
