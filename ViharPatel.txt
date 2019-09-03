@@ -1,6 +1,6 @@
 <span id="a">vihar@patel</span>:<span id="b">~</span><span id="c">$</span> cd ViharPatel/<!-- smalldelayhere -->About_Me
 <span id="a">vihar@patel</span>:<span id="b">~</span><span id="c">$</span> cat <!-- smalldelayhere -->vihar_patel.txt<br/><br/>
-"<span id="k">Don't tell me the sky is the limit when there are footprints on the moon</span>"
+"<span id="k">Don't tell me the sky is the limit, there's footprints on the moon</span>"
 
 Here's a little bit <a href="https://vi-code.github.io/about_me"> about me</a>.
 
