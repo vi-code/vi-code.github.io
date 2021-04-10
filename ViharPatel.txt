@@ -1,10 +1,10 @@
 <span id="a">vihar@patel</span>:<span id="b">~</span><span id="c">$</span> cd ViharPatel/<!-- smalldelayhere -->About_Me
 <span id="a">vihar@patel</span>:<span id="b">~</span><span id="c">$</span> cat <!-- smalldelayhere -->vihar_patel.txt<br/><br/>
-"<span id="k">You can't tell me the sky's the limit when there's footprints on the moon</span>"
+"<span id="k">You can't say the sky's the limit when there's footprints on the moon</span>"
 
 Here's a little bit <a href="https://vi-code.github.io/about_me"> about me</a>.
 
-I have worked on a lot of projects in the field of Computer Science, some of those projects are:
+Things that make me like computer science:
 
 <a href="https://vi-code.github.io/pagerank"> Pagerank</a>
 
@@ -16,7 +16,5 @@ I have worked on a lot of projects in the field of Computer Science, some of tho
 <!-- slightdelayhere-->Feel free to send me an <a href="mailto:vihar_pat95@gmail.com">email!<!-- smalldelay --></a>
 
 <p>You can view the code <a href="https://github.com/vi-code/vi-code.github.io">here!</a></p>
-
-<p> You can also download a printer-friendly version of my résumé <a href="https://github.com/vi-code/vi-code.github.io/blob/master/Vihar_Patel_Resume_2020.pdf">here.</a></p><!-- lag -->
 
 <p>Peace!</p>
