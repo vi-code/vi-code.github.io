@@ -112,3 +112,8 @@ function t() {
 		clearInterval(timer);
 	}
 }
+
+// Initialization with default content
+$(document).ready(function() {
+    Typer.init('https://vi-code.github.io/bin/content/ViharPatel.txt');
+});
