@@ -1,6 +1,6 @@
-<span id="a">vihar@patel</span>:<span id="b">~</span><span id="c">$</span> cd ViharPatel/<!-- smalldelayhere -->About_Me
+<span id="a">vihar@patel</span>:<span id="b">~</span><span id="c">$</span> cd Vihar/<!-- smalldelayhere -->about_me
 <span id="a">vihar@patel</span>:<span id="b">~</span><span id="c">$</span> cat <!-- smalldelayhere -->vihar_patel.txt<br/><br/>
-"<span id="k">You can't say the sky's the limit when there's footprints on the moon</span>"
+"<span id="k">Saying the sky's the limit doesn't really hold up when we've already left footprints on the moon</span>"
 
 Here's a little bit <a href="https://vi-code.github.io/about_me"> about me</a>.
 

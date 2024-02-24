@@ -6,13 +6,16 @@ var Typer={
 	file:"", 
 	accessCount:0,
 	deniedCount:0, 
-	init: function(){
-		accessCountimer=setInterval(function(){Typer.updLstChr();},500); 
-		$.get(Typer.file,function(data){
-			Typer.text=data;
-			Typer.text = Typer.text.slice(0, Typer.text.length-1);
-		});
-	},
+	init: function(file) {
+        this.file = file || this.file; // Use the provided file or default to the previously set file
+        clearInterval(this.accessCountimer);
+        this.accessCountimer = setInterval(function(){ Typer.updLstChr(); }, 500);
+        $.get(this.file, function(data) {
+            Typer.text = data;
+            Typer.text = Typer.text.slice(0, Typer.text.length - 1);
+            Typer.index = 0; // Reset index for new content
+        });
+    },
  
 	content:function(){
 		return $("#console").html();
