@@ -115,5 +115,11 @@ function t() {
 
 // Initialization with default content
 $(document).ready(function() {
-    Typer.init('https://vi-code.github.io/bin/content/ViharPatel.txt');
+    Typer.init('https://vi-code.github.io/bin/content/vihar_patel.txt');
+});
+
+$(document).ready(function() {
+    $('#loadAboutMe').click(function() {
+        Typer.init('https://vi-code.github.io/bin/content/about_me.txt');
+    });
 });
