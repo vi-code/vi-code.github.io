@@ -2,7 +2,7 @@
 <span id="a">vihar@patel</span>:<span id="b">~</span><span id="c">$</span> cat <!-- smalldelayhere -->vihar_patel.txt<br/><br/>
 "<span id="k">Saying the sky's the limit doesn't really hold up when we've already left footprints on the moon</span>"
 
-Here's a little bit <a href="https://vi-code.github.io/bin/content/about_me.txt"> about me</a>.
+Here's a little bit <a href="assets/content/pages/about_me.txt"> about me</a>.
 
 Things that make me like computer science:
 
