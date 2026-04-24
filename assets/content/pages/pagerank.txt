@@ -1,0 +1,27 @@
+Repo: pagerank
+
+Description: Comparing HITS and pagerank
+
+GitHub URL: <a href="https://github.com/vi-code/pagerank">https://github.com/vi-code/pagerank</a>
+
+Primary language: Python
+
+Stars: 0 | Forks: 0 | Watchers: 0 | Open issues: 0
+
+Default branch: master
+
+Forked: No
+
+License: None
+
+Homepage: None
+
+Created: 2018-12-20 | Updated: 2019-07-12 | Last pushed: 2019-07-12
+
+Topics: None
+
+
+
+<a href="assets/content/pages/repos_index.txt">Back to GitHub repo index</a>
+
+<a href="assets/content/pages/vihar_patel.txt">Back to home</a>

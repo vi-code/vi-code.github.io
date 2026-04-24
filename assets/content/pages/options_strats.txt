@@ -1,0 +1,27 @@
+Repo: options_strats
+
+Description: Playing around with Stock Options Chains and Strategies
+
+GitHub URL: <a href="https://github.com/vi-code/options_strats">https://github.com/vi-code/options_strats</a>
+
+Primary language: Python
+
+Stars: 0 | Forks: 0 | Watchers: 0 | Open issues: 0
+
+Default branch: master
+
+Forked: No
+
+License: Apache License 2.0
+
+Homepage: None
+
+Created: 2019-06-03 | Updated: 2019-06-03 | Last pushed: 2019-06-03
+
+Topics: None
+
+
+
+<a href="assets/content/pages/repos_index.txt">Back to GitHub repo index</a>
+
+<a href="assets/content/pages/vihar_patel.txt">Back to home</a>

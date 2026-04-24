@@ -1,0 +1,27 @@
+Repo: tfc-workshops-sentinel
+
+Description: Sentinel policies for use in pre-sales workshops: https://hashicorp.github.io/workshops
+
+GitHub URL: <a href="https://github.com/vi-code/tfc-workshops-sentinel">https://github.com/vi-code/tfc-workshops-sentinel</a>
+
+Primary language: Unknown
+
+Stars: 0 | Forks: 0 | Watchers: 0 | Open issues: 0
+
+Default branch: master
+
+Forked: Yes
+
+License: None
+
+Homepage: None
+
+Created: 2020-01-09 | Updated: 2020-01-09 | Last pushed: 2020-01-09
+
+Topics: None
+
+
+
+<a href="assets/content/pages/repos_index.txt">Back to GitHub repo index</a>
+
+<a href="assets/content/pages/vihar_patel.txt">Back to home</a>

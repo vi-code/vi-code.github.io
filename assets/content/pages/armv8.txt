@@ -1,0 +1,27 @@
+Repo: armv8
+
+Description: Playing around with some armv8 assembly code
+
+GitHub URL: <a href="https://github.com/vi-code/armv8">https://github.com/vi-code/armv8</a>
+
+Primary language: Assembly
+
+Stars: 1 | Forks: 0 | Watchers: 1 | Open issues: 0
+
+Default branch: master
+
+Forked: No
+
+License: None
+
+Homepage: None
+
+Created: 2018-06-17 | Updated: 2020-01-02 | Last pushed: 2019-07-31
+
+Topics: None
+
+
+
+<a href="assets/content/pages/repos_index.txt">Back to GitHub repo index</a>
+
+<a href="assets/content/pages/vihar_patel.txt">Back to home</a>

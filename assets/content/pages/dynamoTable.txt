@@ -1,0 +1,27 @@
+Repo: dynamoTable
+
+Description: Testing Dynamodb using Python
+
+GitHub URL: <a href="https://github.com/vi-code/dynamoTable">https://github.com/vi-code/dynamoTable</a>
+
+Primary language: Python
+
+Stars: 0 | Forks: 1 | Watchers: 0 | Open issues: 1
+
+Default branch: master
+
+Forked: No
+
+License: None
+
+Homepage: None
+
+Created: 2019-08-15 | Updated: 2019-08-19 | Last pushed: 2021-03-20
+
+Topics: None
+
+
+
+<a href="assets/content/pages/repos_index.txt">Back to GitHub repo index</a>
+
+<a href="assets/content/pages/vihar_patel.txt">Back to home</a>

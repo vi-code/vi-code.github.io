@@ -1,0 +1,46 @@
+GitHub Repositories:
+
+<a href="assets/content/pages/about_me.txt">about_me</a> - Github pages page for my cover letter
+
+<a href="assets/content/pages/ansible.txt">ansible</a> - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/
+
+<a href="assets/content/pages/armv8.txt">armv8</a> - Playing around with some armv8 assembly code
+
+<a href="assets/content/pages/auto-edge.txt">auto-edge</a> - No description provided.
+
+<a href="assets/content/pages/AWS-Learn.txt">AWS-Learn</a> - Learning AWS 
+
+<a href="assets/content/pages/cannatech-db.txt">cannatech-db</a> - No description provided.
+
+<a href="assets/content/pages/CloudTelecom.txt">CloudTelecom</a> - My take on how much of the Telecom industry can actually be taken on the cloud.
+
+<a href="assets/content/pages/dynamoTable.txt">dynamoTable</a> - Testing Dynamodb using Python
+
+<a href="assets/content/pages/FLIZ.txt">FLIZ</a> - The Fliz interpreter
+
+<a href="assets/content/pages/gitignore.txt">gitignore</a> - A collection of useful .gitignore templates
+
+<a href="assets/content/pages/hashicat-aws.txt">hashicat-aws</a> - No description provided.
+
+<a href="assets/content/pages/my_bash_setup.txt">my_bash_setup</a> - My custom bash setup for QoL improvements
+
+<a href="assets/content/pages/options_strats.txt">options_strats</a> - Playing around with Stock Options Chains and Strategies
+
+<a href="assets/content/pages/pagerank.txt">pagerank</a> - Comparing HITS and pagerank
+
+<a href="assets/content/pages/prediction.txt">prediction</a> - Returns Users rating of dishes.
+
+<a href="assets/content/pages/Purdue.txt">Purdue</a> - Projects I have worked on at Purdue Univerisity.
+
+<a href="assets/content/pages/shell.txt">shell</a> - No description provided.
+
+<a href="assets/content/pages/terraform-aws-vpc.txt">terraform-aws-vpc</a> - Terraform module which creates VPC resources on AWS
+
+<a href="assets/content/pages/Test.txt">Test</a> - This is for testing git.
+
+<a href="assets/content/pages/test-tf-repo.txt">test-tf-repo</a> - No description provided.
+
+<a href="assets/content/pages/tfc-workshops-sentinel.txt">tfc-workshops-sentinel</a> - Sentinel policies for use in pre-sales workshops: https://hashicorp.github.io/workshops
+
+<a href="assets/content/pages/vi-code.github.io.txt">vi-code.github.io</a> - No description provided.
+

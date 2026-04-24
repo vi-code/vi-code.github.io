@@ -1,0 +1,27 @@
+Repo: vi-code.github.io
+
+Description: No description provided.
+
+GitHub URL: <a href="https://github.com/vi-code/vi-code.github.io">https://github.com/vi-code/vi-code.github.io</a>
+
+Primary language: JavaScript
+
+Stars: 0 | Forks: 0 | Watchers: 0 | Open issues: 0
+
+Default branch: master
+
+Forked: No
+
+License: None
+
+Homepage: https://vi-code.github.io
+
+Created: 2019-06-03 | Updated: 2026-04-23 | Last pushed: 2026-04-23
+
+Topics: None
+
+
+
+<a href="assets/content/pages/repos_index.txt">Back to GitHub repo index</a>
+
+<a href="assets/content/pages/vihar_patel.txt">Back to home</a>

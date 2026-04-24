@@ -1,0 +1,27 @@
+Repo: shell
+
+Description: No description provided.
+
+GitHub URL: <a href="https://github.com/vi-code/shell">https://github.com/vi-code/shell</a>
+
+Primary language: C
+
+Stars: 0 | Forks: 0 | Watchers: 0 | Open issues: 0
+
+Default branch: master
+
+Forked: No
+
+License: None
+
+Homepage: None
+
+Created: 2018-05-15 | Updated: 2018-05-15 | Last pushed: 2018-05-15
+
+Topics: None
+
+
+
+<a href="assets/content/pages/repos_index.txt">Back to GitHub repo index</a>
+
+<a href="assets/content/pages/vihar_patel.txt">Back to home</a>

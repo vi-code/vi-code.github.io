@@ -1,0 +1,27 @@
+Repo: gitignore
+
+Description: A collection of useful .gitignore templates
+
+GitHub URL: <a href="https://github.com/vi-code/gitignore">https://github.com/vi-code/gitignore</a>
+
+Primary language: Unknown
+
+Stars: 0 | Forks: 0 | Watchers: 0 | Open issues: 0
+
+Default branch: main
+
+Forked: Yes
+
+License: Creative Commons Zero v1.0 Universal
+
+Homepage: None
+
+Created: 2023-02-06 | Updated: 2023-02-06 | Last pushed: 2023-02-06
+
+Topics: None
+
+
+
+<a href="assets/content/pages/repos_index.txt">Back to GitHub repo index</a>
+
+<a href="assets/content/pages/vihar_patel.txt">Back to home</a>

@@ -15,6 +15,9 @@ Things that make me like computer science:
 
 <!-- slightdelayhere-->Feel free to send me an <a href="mailto:vihar_pat95@gmail.com">email!<!-- smalldelay --></a>
 
+You can view my GitHub repositories here: <a href="assets/content/pages/repos_index.txt">GitHub repos</a>.
+
+
 <p>You can view the code <a href="https://github.com/vi-code/vi-code.github.io">here!</a></p>
 
 <p>Peace!</p>

@@ -1,16 +1,27 @@
-<span id="a">vihar@patel</span>:<span id="b">~</span><span id="c">$</span> cd about_me/<!-- lag -->About
-<span id="a">vihar@patel</span>:<span id="b">~</span><span id="c">$</span> cat <!-- lag -->about_me.txt<br/><br/>
+Repo: about_me
+
+Description: Github pages page for my cover letter
+
+GitHub URL: <a href="https://github.com/vi-code/about_me">https://github.com/vi-code/about_me</a>
+
+Primary language: JavaScript
+
+Stars: 2 | Forks: 0 | Watchers: 2 | Open issues: 0
+
+Default branch: master
+
+Forked: No
+
+License: None
+
+Homepage: None
+
+Created: 2019-07-31 | Updated: 2022-08-15 | Last pushed: 2020-01-03
+
+Topics: None
 
 
 
-<!-- lag -->Hi there! I am a Computer Science grad from Purdue University who works as a Software Engineer for the genomics and biotechnology company, 23andMe.
+<a href="assets/content/pages/repos_index.txt">Back to GitHub repo index</a>
 
-I love to work at an organization which fosters creativity and innovation. My academic and professional experience of software development in C++, Python and Java as well as my exposure to Agile methodology and DevOps engineering prepares me for the future!
-
-Most of my weekends are spent hiking, swimming or working out. I box too and would love to train and spar with anyone interested! My interests reside in Cars, American politics and Computing ethics and I'd love to have long and deep discussions about them with anyone.
-
-
-
-<p> You can download a printer-friendly version of my résumé <a href="https://github.com/vi-code/vi-code.github.io/blob/master/Vihar_Patel_Resume_2020.pdf">here.</a></p><!-- lag -->
-
-<p>View webpage source <a href="https://github.com/vi-code/vi-code.github.io">here!</a></p>
+<a href="assets/content/pages/vihar_patel.txt">Back to home</a>

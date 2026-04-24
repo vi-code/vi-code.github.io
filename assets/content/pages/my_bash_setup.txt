@@ -1,0 +1,27 @@
+Repo: my_bash_setup
+
+Description: My custom bash setup for QoL improvements
+
+GitHub URL: <a href="https://github.com/vi-code/my_bash_setup">https://github.com/vi-code/my_bash_setup</a>
+
+Primary language: Shell
+
+Stars: 0 | Forks: 0 | Watchers: 0 | Open issues: 0
+
+Default branch: master
+
+Forked: No
+
+License: Apache License 2.0
+
+Homepage: None
+
+Created: 2019-12-16 | Updated: 2022-06-12 | Last pushed: 2022-06-12
+
+Topics: None
+
+
+
+<a href="assets/content/pages/repos_index.txt">Back to GitHub repo index</a>
+
+<a href="assets/content/pages/vihar_patel.txt">Back to home</a>

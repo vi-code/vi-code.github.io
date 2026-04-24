@@ -1,0 +1,27 @@
+Repo: hashicat-aws
+
+Description: No description provided.
+
+GitHub URL: <a href="https://github.com/vi-code/hashicat-aws">https://github.com/vi-code/hashicat-aws</a>
+
+Primary language: HCL
+
+Stars: 0 | Forks: 0 | Watchers: 0 | Open issues: 0
+
+Default branch: master
+
+Forked: Yes
+
+License: Apache License 2.0
+
+Homepage: None
+
+Created: 2020-01-09 | Updated: 2020-01-10 | Last pushed: 2020-01-10
+
+Topics: None
+
+
+
+<a href="assets/content/pages/repos_index.txt">Back to GitHub repo index</a>
+
+<a href="assets/content/pages/vihar_patel.txt">Back to home</a>
